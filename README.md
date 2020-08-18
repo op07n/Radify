@@ -1,3 +1,11 @@
+
+
+Duplicate of:
+
+https://github.com/SergiBago/Radify
+
+
+
 # Radify
 ## Radify is a program for windows, developed with C#, that allows you to work with category 10 and category 21 messages, version 0.23, 0.26 and 2.1 of the eurocontrol Asterix system.
 
